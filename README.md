@@ -12,7 +12,7 @@ To use this script, follow these steps:
    - If you haven't already, install Tampermonkey in your browser. You can download it from [Tampermonkey](https://www.tampermonkey.net/).
 
 2. **Install the Script:**
-   - Click [here](https://raw.githubusercontent.com/SirCaveiraOFC/Steam-Level-Changer/main/Steam%20Level%20Changer.js) to install the script directly, or follow these steps:
+   - Click [here](https://update.greasyfork.org/scripts/498388/Steam%20Level%20Changer.user.js) to install the script directly, or follow these steps:
      - Open Tampermonkey in your browser.
      - Click on the Tampermonkey icon in the browser extensions bar and select "Create a new script".
      - Delete all existing content and paste the provided script code.
