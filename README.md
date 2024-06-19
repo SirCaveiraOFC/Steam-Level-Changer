@@ -29,9 +29,6 @@ To use this script, follow these steps:
 3. **Adjust Your Steam Level:**
    - Use the menu to visually adjust the displayed Steam level on your profile page. Please note that these changes are only visual and do not permanently alter your level on Steam.
 
-4. **Save Changes:**
-   - After making the desired adjustments, reload the Steam profile page to apply the changes.
-
 ## Notes
 
 - This script is intended for visual adjustments only and does not permanently change your Steam level.
