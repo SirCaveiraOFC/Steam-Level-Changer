@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Change Steam Level
+// @name         Steam Level Changer
 // @namespace    http://tampermonkey.net/
-// @version      2024-06-19
+// @version      2024-06-20
 // @description  Change your Steam level (only UI)!
 // @author       Sr.Caveira
 // @match        https://steamcommunity.com/id/*
